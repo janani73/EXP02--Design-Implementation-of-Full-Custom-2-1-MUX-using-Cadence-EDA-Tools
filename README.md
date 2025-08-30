@@ -57,7 +57,8 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 
 
-![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+<img width="872" height="655" alt="Screenshot 2025-08-30 112212" src="https://github.com/user-attachments/assets/4c17765a-1f37-4723-8fe1-31c4084d27a1" />
+
 
 ## Output
 
